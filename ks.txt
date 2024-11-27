@@ -2,12 +2,20 @@ Staple:
 Rajma Rice
 Basmati Rice 
 Thai Rice 
-Jasmine Rice 
-
+Jasmine Rice
 
 Protein: 
-Chicken
+Divya Chicken
 Shrimps
 Lamb
 Fish
 Eggs
+
+
+Veggies:
+Bok Choy 
+Carrot 
+Corn 
+mushroom 
+Bell pepper 
+Bamboo shoot 
